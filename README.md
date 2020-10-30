@@ -1,6 +1,6 @@
 # Dwarfs: There and Back Again
 **A basic idle game made wih JS. Won JS13K 2019 at 8th place and 2th place in mobile category.**
-![dwarfs](screenshot.png)
+
 
 ## Installation
 Install dependencies.
@@ -14,7 +14,7 @@ Build a compact version in both **build** and **electronapp** folders.
 ```
 
 ### Generating an Electron app
-![dwarfs](screenshot2.png)
+
 Enter to the **electronapp** folder.
 ```
 cd electronapp
@@ -27,6 +27,6 @@ npm install
 
 ## Contributors
 
-*Original Author: [Msvalikov](https://github.com/mvasilkov)*
+*Original Author: [Asyeh]( https://github.com/Asyehhs) *
 
 *Contributor: [Yutyo](https://github.com/yutyo)*
